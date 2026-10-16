@@ -34,3 +34,5 @@ This project reinforced one of the most important lessons in analytics:
 A good dashboard should not simply display data — it should help someone make a better decision.
 
 #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #DashboardDesign #DAX #EcommerceAnalytics #DataAnalyst #BusinessAnalytics #PowerQuery
+
+<img width="1436" height="825" alt="UK ECOMMERCE SALES ANALYSIS DASHBOARD — 2026 YTD" src="https://github.com/user-attachments/assets/ed216a53-a2ff-4f63-b64b-36521126cb2b" />
